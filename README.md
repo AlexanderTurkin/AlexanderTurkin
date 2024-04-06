@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=A+Python+developer;who+loves+open+source+projects"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=A+Python+developer"/>
 
 ###
 
